@@ -68,10 +68,8 @@ Test Data Generation: FPDF
 
 ###  Output 
 _Automated executive summary generated from a raw financial PDF:_
-```text
 === EXECUTIVE SUMMARY ===
 1. Financial Highlights: Record revenue of $12.5M (+15% YoY).
 2. Operational Risks: Supply chain disruption in semiconductor division.
 3. Strategic Outlook: Heavy investment in AI R&D impacting short-term margins.
-
 Author: Kalpataru Roy
